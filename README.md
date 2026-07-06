@@ -19,10 +19,12 @@ DSA Journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,5 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
