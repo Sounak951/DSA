@@ -13,6 +13,7 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sounak951/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/Sounak951/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sounak951/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ DSA Journey
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sounak951/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +40,5 @@ DSA Journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sounak951/DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
