@@ -19,6 +19,7 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Sounak951/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sounak951/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -40,6 +41,7 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Sounak951/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sounak951/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sounak951/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sounak951/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -47,4 +49,8 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sounak951/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Sounak951/DSA/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
