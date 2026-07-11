@@ -6,6 +6,7 @@ DSA Journey
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sounak951/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sounak951/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sounak951/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -21,6 +22,7 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sounak951/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Sounak951/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/Sounak951/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sounak951/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -55,4 +57,8 @@ DSA Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Sounak951/DSA/tree/main/0036-valid-sudoku/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sounak951/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
