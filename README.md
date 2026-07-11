@@ -8,11 +8,13 @@ DSA Journey
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sounak951/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sounak951/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Sounak951/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Sounak951/DSA/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sounak951/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/Sounak951/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sounak951/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sounak951/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Array
